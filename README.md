@@ -140,7 +140,7 @@ Every port must have at least two types, one that specifies direction (lv2:Input
                         "Aumento"@es ,
                         "Gain"@fr ,
                         "Guadagno"@it ,
-                        "利益"@jp ,
+                        "ゲイン"@jp ,
                         "Увеличение"@ru ;
 
 An lv2:ControlPort should always describe its default value, and usually a minimum and maximum value.  Defining a range is not strictly required, but should be done wherever possible to aid host support, particularly for UIs.
